@@ -19,19 +19,6 @@ Gosto de aprender novas tecnologias, colocar meus conhecimentos em prática e de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C"/>
 </p>
 
-🐍 Python
-🟨 JavaScript
-🌐 HTML
-🗄️ MySQL
-💻 Linguagem C
-📚 Atualmente estudando
-Lógica de programação
-Desenvolvimento de software
-Banco de dados
-Inteligência Artificial
-Engenharia de Software
-💻 Projetos
-🛡️ Aegis Chatbot
 
 Projeto acadêmico desenvolvido em grupo utilizando Python, LangChain, Groq API e inteligência artificial generativa.
 
@@ -43,8 +30,3 @@ Desenvolver projetos práticos.
 Aprender novas tecnologias.
 Construir minha carreira na área de TI.
 Conquistar minha primeira oportunidade profissional.
-📫 Contato
-GitHub: https://github.com/kaio9zk-create
-LinkedIn: Adicionar meu perfil.
-
-⭐ Sempre aprendendo e evoluindo!
