@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Olá! Eu sou o Kaio
 
-<!--
-**kaio9zk-create/kaio9zk-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software | 2º semestre
 
-Here are some ideas to get you started:
+Tenho 18 anos e estou iniciando minha jornada na área de Tecnologia da Informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou cursando Engenharia de Software e desenvolvendo meus conhecimentos em programação, desenvolvimento de sistemas e banco de dados.
+
+Gosto de aprender novas tecnologias, colocar meus conhecimentos em prática e desenvolver projetos que contribuam para minha evolução profissional.
+
+🚀 Tecnologias que estou estudando
+🐍 Python
+🟨 JavaScript
+🌐 HTML
+🗄️ MySQL
+💻 Linguagem C
+📚 Atualmente estudando
+Lógica de programação
+Desenvolvimento de software
+Banco de dados
+Inteligência Artificial
+Engenharia de Software
+💻 Projetos
+🛡️ Aegis Chatbot
+
+Projeto acadêmico desenvolvido em grupo utilizando Python, LangChain, Groq API e inteligência artificial generativa.
+
+🔗 Ver projeto no GitHub
+
+🎯 Meus objetivos
+Aprimorar minhas habilidades em programação.
+Desenvolver projetos práticos.
+Aprender novas tecnologias.
+Construir minha carreira na área de TI.
+Conquistar minha primeira oportunidade profissional.
+📫 Contato
+GitHub: https://github.com/kaio9zk-create
+LinkedIn: Adicionar meu perfil.
+
+⭐ Sempre aprendendo e evoluindo!
